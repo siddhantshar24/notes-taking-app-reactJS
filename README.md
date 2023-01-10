@@ -16,4 +16,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 Use the UI page to save all the information that is required to be saved. The section is divided into two parts; i.e. on the left, an overview of collection of all the notes present and on the right it contains information regarding a particular note selected from the list. The notes could be deleted, added, retrieved and updated from the UI itself and also has a option to save the notes locally.
 
-Thanks
+Thanks.
